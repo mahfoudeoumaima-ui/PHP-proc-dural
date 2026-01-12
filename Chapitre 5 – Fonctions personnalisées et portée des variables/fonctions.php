@@ -20,3 +20,9 @@ function incrementer() {
 }
 incrementer(); // Affiche 1
 incrementer(); // Affiche 2
+✔ function = إعادة استعمال الكود
+✔ argument = قيمة كنمرّروها
+✔ return = نرجعو نتيجة
+✔ variable locale = داخل function
+✔ global = متغيّر خارجي
+✔ static = كتحتافظ بالقيم
