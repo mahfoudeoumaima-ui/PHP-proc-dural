@@ -14,3 +14,11 @@ $fruits = ["Pomme", "Banane"];
 array_push($fruits, "Mangue"); // Ajoute "Mangue"
 unset($fruits[1]); // Supprime "Banane"
 echo "Nombre de fruits : " . count($fruits);
+
+Tableau = متغيّر فيه بزاف ديال القيم
+✔ Tableau simple → index رقمي
+✔ Tableau associatif → clé نصية
+✔ foreach هو الأسهل
+✔ count() كتحسب
+✔ array_push() كتزيد
+✔ unset() كتحيد
